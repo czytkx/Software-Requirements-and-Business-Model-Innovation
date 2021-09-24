@@ -1,2 +1,18 @@
-# Projects
-Welcome to my repository, which includes data structure, data analysing and web developing, etc
+格式请遵循：
+
+## VP 价值主张
+
+度量数值： **
+
+---正文---
+
+### VP与CS的联系
+
+---正文---
+
+
+
+------
+
+即：每个模块标题下写明度量数值， 下增一个小标题说明该模块与其它模块的联系
+
