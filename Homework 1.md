@@ -89,6 +89,7 @@ git@github.com:LYK-love/Software-Requirements-and-Business-Model-Innovation.git
 * 宣传投入的费用。需要在其他平台投放广告以宣传产品以构建主要的渠道通路，需投入广告制作成本与广告费成本；可与知乎、CSDN等网站合作，实现产品的广泛宣传以拓展市场，需投入一定成本。
 * 外包成本。平台需要提供高效的实时搜索功能，其实现可以委托给其他公司；网站的部分运行管理工作与对发布内容的审核工作也可以通过外包实现。
 
+<br/><br/>
 
 
 ## RS（草稿）
@@ -97,7 +98,7 @@ git@github.com:LYK-love/Software-Requirements-and-Business-Model-Innovation.git
 * 用户增值费用。网站的用户可以订阅会员，会员用户可以免广告、免费或付低价从网站获取部分付费学术资源。
 * 知识资源交易抽成与许可使用费。平台可以作为知识付费软件通过内容价值盈利：用户可以付费阅读和下载网站上的各种学术资源；可以付费使用向专家提问的功能。可以从用户的支付金额中抽取一定比例作为交易抽成。
 
-
+<br/><br/>
 
 ## CH（草稿）
 
@@ -106,7 +107,7 @@ git@github.com:LYK-love/Software-Requirements-and-Business-Model-Innovation.git
 * 平台的激励邀请机制。鼓励用户邀请他人成为网站上的用户，并给予一定的经验值奖励；经验值可以用于免费获取资源等。
 
 
-
+<br/><br/><br/><br/>
 
 
 
